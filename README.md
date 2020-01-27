@@ -1,5 +1,5 @@
 # PDACS HACC Data portal browser
-HACC data portal as galaxy dataresources is configured as galaxy tool.
+HACC data portal as galaxy data resource is configured as galaxy tool.
 This is an example for the interaction of Galaxy with an external data source.
 
 ## Galaxy configuration
